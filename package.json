@@ -1,0 +1,5 @@
+{
+  "name": "news-api-proxy",
+  "version": "1.0.0",
+  "description": "API proxy for Vercel"
+}
